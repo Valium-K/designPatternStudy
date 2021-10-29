@@ -1,0 +1,10 @@
+dev/valium/design_pattern/strategy_pattern/Bicycle.java
+ dev.valium.design_pattern.strategy_pattern.Bicycle
+dev/valium/design_pattern/strategy_pattern/Transportation.java
+ dev.valium.design_pattern.strategy_pattern.Transportation
+dev/valium/design_pattern/strategy_pattern/Main.java
+ dev.valium.design_pattern.strategy_pattern.Main
+dev/valium/design_pattern/strategy_pattern/Person.java
+ dev.valium.design_pattern.strategy_pattern.Person
+dev/valium/design_pattern/strategy_pattern/ElectricKickboard.java
+ dev.valium.design_pattern.strategy_pattern.ElectricKickboard
