@@ -1,22 +1,36 @@
-dev/valium/design_pattern/strategy_pattern/Bicycle.java
- dev.valium.design_pattern.strategy_pattern.Bicycle
-dev/valium/design_pattern/strategy_pattern/Transportation.java
- dev.valium.design_pattern.strategy_pattern.Transportation
-dev/valium/design_pattern/strategy_pattern/ElectricKickboard.java
- dev.valium.design_pattern.strategy_pattern.ElectricKickboard
 dev/valium/design_pattern/commend_pattern/Main.java
  dev.valium.design_pattern.commend_pattern.Main
+dev/valium/design_pattern/state_pattern/StateContext.java
+ dev.valium.design_pattern.state_pattern.StateContext
 dev/valium/design_pattern/commend_pattern/receiver/Light.java
  dev.valium.design_pattern.commend_pattern.receiver.Light
 dev/valium/design_pattern/commend_pattern/command/TurnOnLightCommand.java
  dev.valium.design_pattern.commend_pattern.command.TurnOnLightCommand
 dev/valium/design_pattern/commend_pattern/invoker/Switch.java
  dev.valium.design_pattern.commend_pattern.invoker.Switch
+dev/valium/design_pattern/state_pattern/state/StateLike.java
+ dev.valium.design_pattern.state_pattern.state.StateLike
 dev/valium/design_pattern/commend_pattern/command/Command.java
  dev.valium.design_pattern.commend_pattern.command.Command
+dev/valium/design_pattern/strategy_pattern/Bicycle.java
+ dev.valium.design_pattern.strategy_pattern.Bicycle
+dev/valium/design_pattern/state_pattern/state/StateUpperCase.java
+ dev.valium.design_pattern.state_pattern.state.StateUpperCase
+dev/valium/design_pattern/commend_pattern/command/TurnOffLightCommand.java
+ dev.valium.design_pattern.commend_pattern.command.TurnOffLightCommand
+dev/valium/design_pattern/strategy_pattern/ElectricKickboard.java
+ dev.valium.design_pattern.strategy_pattern.ElectricKickboard
+dev/valium/design_pattern/state_pattern/state/StateLowerCase.java
+ dev.valium.design_pattern.state_pattern.state.StateLowerCase
+dev/valium/design_pattern/strategy_pattern/Transportation.java
+ dev.valium.design_pattern.strategy_pattern.Transportation
 dev/valium/design_pattern/strategy_pattern/Main.java
  dev.valium.design_pattern.strategy_pattern.Main
 dev/valium/design_pattern/strategy_pattern/Person.java
  dev.valium.design_pattern.strategy_pattern.Person
-dev/valium/design_pattern/commend_pattern/command/TurnOffLightCommand.java
- dev.valium.design_pattern.commend_pattern.command.TurnOffLightCommand
+dev/valium/design_pattern/state_pattern/Main.java
+ dev.valium.design_pattern.state_pattern.Main
+ dev.valium.design_pattern.state_pattern.StateContextUsingEnum
+ dev.valium.design_pattern.state_pattern.StateContextUsingEnum$StatusLikeEnum
+ dev.valium.design_pattern.state_pattern.StateContextUsingEnum$StatusLikeEnum$1
+ dev.valium.design_pattern.state_pattern.StateContextUsingEnum$StatusLikeEnum$2
