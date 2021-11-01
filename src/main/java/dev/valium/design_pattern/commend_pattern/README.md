@@ -4,6 +4,5 @@
 
 ### UML
 ![img.png](img.png)
-> 커맨드 패턴은 command, receiver, invoker, client 가 항상 따르며, 한 invoker는 다수의 커맨드를 가질 수 있다.
-
-
+> 커맨드 패턴은 command, receiver, invoker, client 가 항상 따르며,     
+> 한 invoker는 다수의 커맨드를 가질 수 있다.
